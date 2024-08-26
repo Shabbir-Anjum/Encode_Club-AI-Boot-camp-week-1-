@@ -52,7 +52,7 @@ Type `quit` to exit the conversation.
 
 # User Input
 What can I make with chicken, rice, and yogurt?
-
+```python
 # Chef Shabbir's Response
 With the ingredients you have - chicken, rice, and yogurt, I would suggest making Chicken Biryani, a popular and aromatic Pakistani dish. Here's a simplified recipe for you:
 
@@ -89,11 +89,11 @@ Instructions:
 10
 
 Continue? (yes/no): yes
-...
+```
 ### Example 2: Recipe Request
 # User Input
 Can you give me a recipe for Chicken Biryani?
-
+```python
 # Chef Shabbir's Response
 Of course! I'd be happy to share my Chicken Biryani recipe with you. Here it is:
 
@@ -131,11 +131,11 @@ Instructions:
 4. In the same pan, add the marinated chicken and cook on medium heat until the chicken is half-cooked. Add the remaining chopped tomatoes, coriander, and mint. Cook for another 5 minutes
 
 Continue? (yes/no): yes
-...
+```
 ### Example 3: Recipe Critique
 # User Input
 I made Chicken Karahi with chicken, tomatoes, ginger, garlic, and spices. What could I improve?
-
+```python
 # Chef Shabbir's Response
 Hello! It's wonderful that you've tried your hand at Chicken Karahi, a beloved dish from the Punjab region of Pakistan. I'm more than happy to provide some constructive feedback to help enhance your cooking experience.
 
@@ -149,4 +149,4 @@ Keep practicing and experimenting with these tips, and I'm sure you'll continue 
 
 Continue? (yes/no): no
 Thank you for visiting Chef Shabbir kitchen. Allah Hafiz!
-...
+```
