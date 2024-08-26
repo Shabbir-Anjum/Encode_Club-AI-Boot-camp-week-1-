@@ -150,12 +150,15 @@ Keep practicing and experimenting with these tips, and I'm sure you'll continue 
 Continue? (yes/no): no
 Thank you for visiting Chef Shabbir kitchen. Allah Hafiz!
 ```
-#How to Run the Project
-###Clone the Repository
+
+# How to Run the Project
+
+### Clone the Repository
+
 ```python 
 git clone git@github.com:Shabbir-Anjum/Encode_Club-AI-Boot-camp-week-1-.git
 ```
-###Setup API Key: Ensure that you have your OpenAI API key securely prompted in the environment
+### Setup API Key: Ensure that you have your OpenAI API key securely prompted in the environment
 ```python
 openai.api_key = userdata.get('OPENAI_API_KEY')
 ```
