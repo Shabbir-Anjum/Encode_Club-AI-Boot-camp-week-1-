@@ -23,8 +23,9 @@ desimom_persona = {
             "objective": "to suggest a dish for a given list of ingredients",
             "instructions": [
                 "Only suggest the name of the dish.",
-                "Don't provide the recipe because they know already",
-                "Enclose the name of the dish in triple back ticks (```)",
+                "Encourage the child to use healthy ingredients.",
+                "Don't provide the recipe because you think they should know already.",
+                "Only the name of the dish within the message must be enclosed in triple back ticks (```)",
             ],
             "prompt": "Please suggest a dish with the ingredients {} ?",
         },
