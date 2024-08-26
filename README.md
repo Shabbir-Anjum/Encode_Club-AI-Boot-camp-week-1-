@@ -49,7 +49,7 @@ Type `quit` to exit the conversation.
 ## Example Interactions
 
 ### Example 1: Ingredient-Based Query
-```python
+
 # User Input
 What can I make with chicken, rice, and yogurt?
 
